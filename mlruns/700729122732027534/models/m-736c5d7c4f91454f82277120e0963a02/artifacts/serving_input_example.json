@@ -1,0 +1,36 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "treatment_group",
+      "recovery_temperature_c",
+      "body_mass"
+    ],
+    "data": [
+      [
+        "S",
+        30,
+        136
+      ],
+      [
+        "CY",
+        26,
+        179
+      ],
+      [
+        "S",
+        28,
+        151
+      ],
+      [
+        "S",
+        26,
+        144
+      ],
+      [
+        "S",
+        20,
+        122
+      ]
+    ]
+  }
+}

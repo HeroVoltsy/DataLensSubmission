@@ -1,0 +1,35 @@
+artifact_path: file:///home/voltsy/Projects/DataLensSubmission/mlruns/700729122732027534/models/m-a18d901ea8a84e00a05bc44e1981b6c0/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-a18d901ea8a84e00a05bc44e1981b6c0
+model_size_bytes: 8177893
+model_uuid: m-a18d901ea8a84e00a05bc44e1981b6c0
+prompts: null
+run_id: 80b33d67118b46868a6cd29fb62e1b1f
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "treatment_group", "required": true}, {"type":
+    "long", "name": "recovery_temperature_c", "required": true}, {"type": "long",
+    "name": "body_mass", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-11-19 18:11:34.721974'

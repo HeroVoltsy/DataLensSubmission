@@ -1,0 +1,45 @@
+artifact_path: file:///home/voltsy/Projects/DataLensSubmission/mlruns/791358280466235801/models/m-3d57676eecd24290ad31a70f119a868a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-3d57676eecd24290ad31a70f119a868a
+model_size_bytes: 85924
+model_uuid: m-3d57676eecd24290ad31a70f119a868a
+prompts: null
+run_id: 098c38afa132449b982e3a9b084dab67
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "treatment_group", "required": true}, {"type":
+    "double", "name": "recovery_temperature_c", "required": true}, {"type": "double",
+    "name": "humidity_pct", "required": true}, {"type": "double", "name": "body_mass",
+    "required": true}, {"type": "double", "name": "baseline_activity", "required":
+    true}, {"type": "double", "name": "baseline_feeding", "required": true}, {"type":
+    "double", "name": "activity_24h", "required": true}, {"type": "double", "name":
+    "feeding_24h", "required": true}, {"type": "double", "name": "response_latency",
+    "required": true}, {"type": "double", "name": "oxygen_rate", "required": true},
+    {"type": "double", "name": "molecular_signal_A", "required": true}, {"type": "double",
+    "name": "molecular_signal_B", "required": false}, {"type": "double", "name": "fluorescence_signal",
+    "required": true}, {"type": "double", "name": "sensor_variability", "required":
+    true}, {"type": "double", "name": "processing_delay", "required": true}, {"type":
+    "long", "name": "measurement_order", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-11-19 17:36:07.381655'

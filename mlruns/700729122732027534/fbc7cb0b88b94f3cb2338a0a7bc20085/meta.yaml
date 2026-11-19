@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/700729122732027534/fbc7cb0b88b94f3cb2338a0a7bc20085/artifacts
+end_time: 1795111839384
+entry_point_name: ''
+experiment_id: '700729122732027534'
+lifecycle_stage: active
+run_id: fbc7cb0b88b94f3cb2338a0a7bc20085
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795111827331
+status: 3
+tags: []
+user_id: voltsy

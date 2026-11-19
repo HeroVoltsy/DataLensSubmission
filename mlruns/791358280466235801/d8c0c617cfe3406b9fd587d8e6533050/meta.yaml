@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/791358280466235801/d8c0c617cfe3406b9fd587d8e6533050/artifacts
+end_time: 1795109738447
+entry_point_name: ''
+experiment_id: '791358280466235801'
+lifecycle_stage: active
+run_id: d8c0c617cfe3406b9fd587d8e6533050
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795109720351
+status: 3
+tags: []
+user_id: voltsy

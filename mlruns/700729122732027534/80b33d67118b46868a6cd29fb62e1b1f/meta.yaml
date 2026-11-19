@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/700729122732027534/80b33d67118b46868a6cd29fb62e1b1f/artifacts
+end_time: 1795111907128
+entry_point_name: ''
+experiment_id: '700729122732027534'
+lifecycle_stage: active
+run_id: 80b33d67118b46868a6cd29fb62e1b1f
+run_name: JumpProcessExplainabilityEnsemble
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795111861587
+status: 3
+tags: []
+user_id: voltsy

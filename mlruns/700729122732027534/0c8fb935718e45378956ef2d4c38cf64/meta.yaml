@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/700729122732027534/0c8fb935718e45378956ef2d4c38cf64/artifacts
+end_time: 1795111810635
+entry_point_name: ''
+experiment_id: '700729122732027534'
+lifecycle_stage: active
+run_id: 0c8fb935718e45378956ef2d4c38cf64
+run_name: ExtraTreesClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795111793754
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DataLensSubmission/mlruns/239301716450767794/models/m-bece1d645101453d90421fa8e719bf29/artifacts
+creation_timestamp: 1795108627869
+experiment_id: '239301716450767794'
+last_updated_timestamp: 1795108636500
+model_id: m-bece1d645101453d90421fa8e719bf29
+model_type: null
+name: model
+source_run_id: 569e347b09b14600a8c2e3331c86f45d
+status: 2
+status_message: null

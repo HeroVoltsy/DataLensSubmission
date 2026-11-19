@@ -1,0 +1,23 @@
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:               recovered_48h   No. Observations:                  237
+Model:                                 GEE   No. clusters:                       30
+Method:                        Generalized   Min. cluster size:                   7
+                      Estimating Equations   Max. cluster size:                   8
+Family:                           Binomial   Mean cluster size:                 7.9
+Dependence structure:         Exchangeable   Num. iterations:                     9
+Date:                     Fri, 20 Nov 2026   Scale:                           1.000
+Covariance type:                    robust   Time:                         00:07:47
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -4.7500      1.144     -4.153      0.000      -6.992      -2.508
+C(treatment)[T.B]     0.4913      0.370      1.329      0.184      -0.233       1.216
+C(treatment)[T.C]     0.2814      0.353      0.797      0.425      -0.410       0.973
+body_mass             0.0230      0.024      0.975      0.329      -0.023       0.069
+baseline_activity     0.0310      0.016      1.933      0.053      -0.000       0.063
+baseline_feeding      0.0580      0.027      2.126      0.033       0.005       0.112
+==============================================================================
+Skew:                          0.0599   Kurtosis:                      -1.5714
+Centered skew:                 0.0835   Centered kurtosis:             -1.2547
+==============================================================================

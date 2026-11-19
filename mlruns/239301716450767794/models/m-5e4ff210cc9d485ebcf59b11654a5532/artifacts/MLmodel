@@ -1,0 +1,22 @@
+artifact_path: file:///home/voltsy/Projects/DataLensSubmission/mlruns/239301716450767794/models/m-5e4ff210cc9d485ebcf59b11654a5532/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.6.0
+model_id: m-5e4ff210cc9d485ebcf59b11654a5532
+model_size_bytes: 83339
+model_uuid: m-5e4ff210cc9d485ebcf59b11654a5532
+prompts: null
+run_id: c892abd35a9b4175a07153ef211468e3
+utc_time_created: '2026-11-19 17:21:45.925500'

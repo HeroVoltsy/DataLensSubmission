@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/239301716450767794/c892abd35a9b4175a07153ef211468e3/artifacts
+end_time: 1795108917741
+entry_point_name: ''
+experiment_id: '239301716450767794'
+lifecycle_stage: active
+run_id: c892abd35a9b4175a07153ef211468e3
+run_name: CatBoostClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795108899197
+status: 3
+tags: []
+user_id: voltsy

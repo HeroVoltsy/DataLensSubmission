@@ -1,0 +1,17 @@
+feature,available,missing_pct,unique_values
+treatment_group,True,0.0,2
+recovery_temperature_c,True,0.0,6
+humidity_pct,False,100.0,0
+body_mass,True,0.0,122
+baseline_activity,False,100.0,0
+baseline_feeding,False,100.0,0
+activity_24h,False,100.0,0
+feeding_24h,False,100.0,0
+response_latency,False,100.0,0
+oxygen_rate,False,100.0,0
+molecular_signal_A,False,100.0,0
+molecular_signal_B,False,100.0,0
+fluorescence_signal,False,100.0,0
+sensor_variability,False,100.0,0
+processing_delay,False,100.0,0
+measurement_order,False,100.0,0

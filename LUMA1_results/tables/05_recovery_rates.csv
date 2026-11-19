@@ -1,0 +1,4 @@
+treatment,recovered,total,recovery_rate,non_recovered
+A,33,80,0.4125,47
+B,45,80,0.5625,35
+C,36,80,0.45,44

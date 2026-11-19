@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/700729122732027534/5dcc39c55c17472ca7a6edfd444b3800/artifacts
+end_time: 1795111907197
+entry_point_name: ''
+experiment_id: '700729122732027534'
+lifecycle_stage: active
+run_id: 5dcc39c55c17472ca7a6edfd444b3800
+run_name: Daphnia_Aggregated_Results
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795111907168
+status: 3
+tags: []
+user_id: voltsy

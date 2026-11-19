@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/239301716450767794/218fbb6ee3684597ac5fbb54a4340627/artifacts
+end_time: 1795108899190
+entry_point_name: ''
+experiment_id: '239301716450767794'
+lifecycle_stage: active
+run_id: 218fbb6ee3684597ac5fbb54a4340627
+run_name: LGBMClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795108888059
+status: 3
+tags: []
+user_id: voltsy

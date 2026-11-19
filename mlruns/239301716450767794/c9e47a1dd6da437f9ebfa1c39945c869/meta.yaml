@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/239301716450767794/c9e47a1dd6da437f9ebfa1c39945c869/artifacts
+end_time: 1795108846026
+entry_point_name: ''
+experiment_id: '239301716450767794'
+lifecycle_stage: active
+run_id: c9e47a1dd6da437f9ebfa1c39945c869
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795108828237
+status: 3
+tags: []
+user_id: voltsy

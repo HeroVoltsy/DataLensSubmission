@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DataLensSubmission/mlruns/700729122732027534/cb05408c72c342ca8afb79418be0fe70/artifacts
+end_time: 1795111920752
+entry_point_name: ''
+experiment_id: '700729122732027534'
+lifecycle_stage: active
+run_id: cb05408c72c342ca8afb79418be0fe70
+run_name: Daphnia_Global_Analysis
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795111920704
+status: 3
+tags: []
+user_id: voltsy
